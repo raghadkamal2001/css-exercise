@@ -1,0 +1,17 @@
+h1{text-decoration-line: underline;}
+hr{color: grey;}
+p{font-size: 140%;
+    color: blue;
+    a{color: orange;}
+}
+p2{font-size: 140%;
+    a{color: orange;}
+}
+p3{font-size: 140%;
+    a{background-color: yellow;}
+
+}
+div{font-size: 140%;}
+div2{color: blue;}
+div1{color: blue;}
+div{ a{color:red;}}

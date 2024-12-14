@@ -1,0 +1,13 @@
+body{background-color: lightyellow;}
+style{border-right: 5px;}
+p1, p2, p3{display: inline-block;}
+p5,p6{display: inline-block;}
+p1, p2, p3,p5,p6{margin: 5px;}
+p1, p2, p3,p5,p6{background-color: lightgrey;}
+div{margin-left: 5px;}
+div{margin-top: 10px;}
+div{margin-bottom: 10px;}
+div{
+overflow-y: scroll;
+border-top : 10px solid rgb(81, 81, 81);
+border-bottom : 10px solid rgb(81, 81, 81)}
